@@ -1,0 +1,25 @@
+{
+    "version": "v1.08",
+    "versionCode": 8,
+    "updateType": "hot",
+    "notes": "· 优化性能\n· 修复已知bug",
+    "wgtUrl": "https://dot-0gmh3mlcfc120001-1410282430.tcloudbaseapp.com/update.wgt",
+               
+    "apkUrl": "https://dot-0gmh3mlcfc120001-1410282430.tcloudbaseapp.com/app.apk"
+}
+
+{
+    "app-plus": {
+        "distribute": {
+            "android": {
+                "urltypverify": false,
+                "networkSecurityConfig": {
+                    "cleartextTrafficPermitted": true,
+                    "domainConfig": [
+                        {
+                            "domain": "dot-0gmh3mlcfc120001-1410282430.tcloudbaseapp.com",
+                            "cleartextTrafficPermitted": true
+                        }
+                    ]
+                }
+            }
