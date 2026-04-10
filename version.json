@@ -1,6 +1,6 @@
 {
-    "version": "v1.11",
-    "versionCode": 11,
+    "version": "v1.09",
+    "versionCode": 9,
     "updateType": "hot",
     "notes": "· 优化性能\n· 修复已知bug",
     "wgtUrl": "https://87295480.github.io/update.wgt",
